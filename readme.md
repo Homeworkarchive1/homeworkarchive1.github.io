@@ -38,7 +38,7 @@ If Hypackel Lite is blocked but .github.io domains are unblocked you can make yo
 3. click pages and change it to deploy from a branch
 4. it should give you a url in a few minutes. if not then go to the actions tab and if workflows are not enabled, click to enable them
 
-## Stats
+## Statsz
 
 ![GitHub issues](https://img.shields.io/github/issues/hypackellite/hypackellite.github.io?logo=github&style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hypackellite/hypackellite.github.io?label=Pull%20requests&logo=github&style=flat-square)
